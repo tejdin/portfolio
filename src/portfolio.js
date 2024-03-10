@@ -25,7 +25,7 @@ const greeting = {
   subTitle: emoji(
 "Je suis l'étudiant-informaticien de l'IUT Robert Schuman, jonglant entre Laravel, C, et Java. Imaginez un magicien du code, transformant des lignes en tours de magie numérique. Avec les design patterns comme mes astuces secrètes, chaque projet devient une petite aventure amusante. Un café, un clavier, et hop, je crée de la magie informatique !"  ),
   resumeLink:
-    "https://drive.google.com/file/d/1nPwm8HqG_KSdmBm41yYV7UCCk9N_k9L4/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1dq3X2RGeWfp9v4En5J1YYmefhSkbtmmf/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
