@@ -118,19 +118,6 @@ const educationInfo = {
       schoolName: "Institut Universitaire de Technologie Robert Schuman",
       logo: require("./assets/images/iutrs2.jpg"),
       subHeader: "BUT INFORMATIQUE ",
-      duration: "September 2023 - juin 2024",
-      desc: "RÉALISATION D'APPLICATIONS : CONCEPTION,\n" +
-          "DÉVELOPPEMENT, VALIDATION (2ÈME ANNÉE)",
-      descBullets: [
-        "Projet réalisés en PHP, Node.js , React ET JAVA",
-        "introduction en developpement mobile",
-        "renforcement des compétences en SQL, C, C++ et JAVA",
-      ]
-    },
-    {
-      schoolName: "Institut Universitaire de Technologie Robert Schuman",
-      logo: require("./assets/images/iutrs2.jpg"),
-      subHeader: "BUT INFORMATIQUE ",
       duration: "September 2022 - juin 2023",
       desc: "TRONC COMMUN (1ÈRE ANNÉE)",
       descBullets: [
